@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do https://www.tabnews.com.br para htts://curso.dev
+Implementação do https://www.tabnews.com.br para https://curso.dev
