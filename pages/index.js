@@ -1,6 +1,5 @@
 function home() {
-    return <h1>Rebeca, eu amo você. Se você me ama, dá uma risadinha ! </h1>
+  return <h1> jesus </h1>;
 }
 
 export default home;
-
